@@ -1,0 +1,6 @@
+source "B:/esp32/idf/v5.1/esp-idf/components/bootloader/Kconfig.projbuild"
+source "B:/esp32/idf/v5.1/esp-idf/components/esp_app_format/Kconfig.projbuild"
+source "B:/esp32/idf/v5.1/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "B:/esp32/idf/v5.1/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "B:/esp32/idf/v5.1/esp-idf/components/partition_table/Kconfig.projbuild"
+source "C:/Users/86180/Desktop/esp32s3/ai_routines/05_color_detection_project/components/esp-nn/Kconfig.projbuild"
